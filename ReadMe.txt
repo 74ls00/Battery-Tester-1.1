@@ -1,1 +1,0 @@
-http://olegart.ru/wordpress/batterytester/
