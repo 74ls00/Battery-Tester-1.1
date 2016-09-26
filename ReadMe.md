@@ -24,4 +24,6 @@
 
 ![](https://raw.githubusercontent.com/74ls00/Battery-Tester-1.1/master/pic/btester2.png)
 
-[Страница автора]( http://olegart.ru/wordpress/batterytester/)
+[Страница автора](http://olegart.ru/wordpress/batterytester/)
+[Тема на коте](http://radiokot.ru/forum/viewtopic.php?f=11&t=135313)
+
